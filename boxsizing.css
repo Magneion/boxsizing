@@ -6,3 +6,11 @@
 	margin: 20px;
 	width: 80%;
 }
+
+.noborderbox {
+	box-sizing: content-box;
+}
+
+.borderbox {
+	box-sizing: border-box;
+}
